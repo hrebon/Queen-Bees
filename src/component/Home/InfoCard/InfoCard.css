@@ -1,0 +1,19 @@
+.info-card{
+    padding: 0 5px;
+}
+.info-primary{
+    background-color: #03010c;
+}
+.info-dark{
+    background-color: #d38b38;
+}
+.info-icon{
+    font-size: 3rem;
+}
+.info-container{
+    height: 110px;
+    padding: 30px;
+}
+.maring{
+    margin-left: 10px;
+}
